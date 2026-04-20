@@ -1,0 +1,16 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+<rect width="512" height="512" rx="115" fill="#1a1a18"/>
+<line x1="80" y1="256" x2="432" y2="256" stroke="#2a2a26" stroke-width="1"/>
+<line x1="256" y1="80" x2="256" y2="432" stroke="#2a2a26" stroke-width="1"/>
+<path d="M 106 280 A 150 150 0 1 1 406 280" fill="none" stroke="#2d7a4f" stroke-width="10" stroke-linecap="round"/>
+<path d="M 108 286 A 150 150 0 0 0 404 286" fill="none" stroke="#c8621a" stroke-width="10" stroke-linecap="round"/>
+<path d="M 136 270 A 120 120 0 1 1 376 270" fill="none" stroke="#5ab07a" stroke-width="5" stroke-linecap="round"/>
+<path d="M 138 275 A 120 120 0 0 0 374 275" fill="none" stroke="#e07c3a" stroke-width="5" stroke-linecap="round"/>
+<ellipse cx="256" cy="185" rx="18" ry="32" fill="#2d7a4f" transform="rotate(-20 256 185)"/>
+<ellipse cx="256" cy="185" rx="18" ry="32" fill="#5ab07a" opacity="0.5" transform="rotate(20 256 185)"/>
+<polyline points="166,256 192,256 206,228 224,292 242,210 260,282 272,244 288,256 314,256 336,256" fill="none" stroke="#c8621a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="107" cy="283" r="8" fill="#2d7a4f"/>
+<circle cx="405" cy="283" r="8" fill="#c8621a"/>
+<text x="256" y="390" font-family="-apple-system, BlinkMacSystemFont, sans-serif" fill="#f5f2ed" font-size="52" font-weight="700" text-anchor="middle" letter-spacing="4">LONGY</text>
+<text x="256" y="418" font-family="-apple-system, BlinkMacSystemFont, sans-serif" fill="#6b6560" font-size="18" font-weight="400" text-anchor="middle" letter-spacing="4">LONGEVITY</text>
+</svg>
